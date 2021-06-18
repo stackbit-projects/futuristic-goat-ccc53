@@ -8,8 +8,8 @@ sections:
       Building a digital presence that enhances your customer's brand
       experience.
     content: >
-      Working with your stakeholders, I can help build the best possible digital
-      presence for your users. [Let's talk](/contact/).
+      Customer experience is wholistic. Many times, digital is the first, and
+      potentially most important, touch point. [Let's talk](/contact/).
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
