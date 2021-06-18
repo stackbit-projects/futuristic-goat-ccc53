@@ -5,10 +5,9 @@ sections:
   - type: hero_section
     section_id: hero
     title: I build websites that users want to use.
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
+    content: >
+      I'll work with your stakeholders to help build the best possible digital
+      presence for your users. [Let's talk](/contact/).
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
