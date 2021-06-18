@@ -4,7 +4,9 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: Building digital properties to enhance your customer's brand experience.
+    title: >-
+      Building a digital presence that enhances your customer's brand
+      experience.
     content: >
       Working with your stakeholders, I can help build the best possible digital
       presence for your users. [Let's talk](/contact/).
