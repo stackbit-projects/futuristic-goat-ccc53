@@ -8,7 +8,7 @@ sections:
       Building a digital presence that enhances your customer's brand
       experience.
     content: >
-      ## Customer experience is wholistic. Your digital presence is likely to.
+      ### Customer experience is wholistic. Your digital presence is likely to.
       be the first touch point. The first impression should be stellar. [Let's
       talk](/contact/).
   - type: portfolio_section
