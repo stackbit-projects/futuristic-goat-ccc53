@@ -9,8 +9,9 @@ sections:
       experience.
     content: >
       Customer experience is wholistic. Your digital presence is likely to. be
-      the first touch point. The first impression should be stellar. [Let's
-      talk](/contact/).
+      the first touch point. 
+
+      The first impression should be stellar. [Let's talk](/contact/).
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
