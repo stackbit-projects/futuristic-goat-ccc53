@@ -8,9 +8,9 @@ sections:
       Building a digital presence that enhances your customer's brand
       experience.
     content: >
-      ### Your digital presence is likely to. be the first touch point with new
-      customers. The first impression should be first class and provide a sense
-      of trust. [Let's talk](/contact/).
+      ##### Your digital presence is likely to. be the first touch point with
+      new customers. The first impression should be first class and provide a
+      sense of trust. [Let's talk](/contact/).
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
