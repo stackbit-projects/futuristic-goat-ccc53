@@ -8,7 +8,7 @@ sections:
       I build digital properties to enhance the customer's experience with your
       brand.
     content: >
-      I'll work with your stakeholders to help build the best possible digital
+      Working with your stakeholders, I can help build the best possible digital
       presence for your users. [Let's talk](/contact/).
   - type: portfolio_section
     section_id: latest-projects
